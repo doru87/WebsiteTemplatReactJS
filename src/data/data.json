@@ -1,0 +1,127 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "title": "Graphic Design",
+      "percentage": "75%"
+    },
+    {
+      "id": 2,
+      "title": "Ui/Ux",
+      "percentage": "50%"
+    },
+    {
+      "id": 3,
+      "title": "Logo Design",
+      "percentage": "60%"
+    },
+    {
+      "id": 4,
+      "title": "Html/Css",
+      "percentage": "85%"
+    },
+    {
+      "id": 5,
+      "title": "Web Design",
+      "percentage": "75%"
+    },
+    {
+      "id": 6,
+      "title": "Branding",
+      "percentage": "95%"
+    },
+    {
+      "id": 7,
+      "title": "Photography",
+      "percentage": "75%"
+    },
+    {
+      "id": 8,
+      "title": "Jquery",
+      "percentage": "55%"
+    }
+  ],
+  "works": [
+    {
+      "id": 1,
+      "name": "pic-1.jpg",
+      "category": "photography"
+    },
+    {
+      "id": 2,
+      "name": "pic-2.jpg",
+      "category": "print"
+    },
+    {
+      "id": 3,
+      "name": "pic-3.jpg",
+      "category": "print"
+    },
+    {
+      "id": 4,
+      "name": "pic-4.jpg",
+      "category": "print"
+    },
+    {
+      "id": 5,
+      "name": "pic-5.jpg",
+      "category": "branding"
+    },
+    {
+      "id": 6,
+      "name": "pic-6.jpg",
+      "category": "web design"
+    },
+    {
+      "id": 7,
+      "name": "pic-7.jpg",
+      "category": "web design"
+    },
+    {
+      "id": 8,
+      "name": "pic-8.jpg",
+      "category": "branding"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "image": "img1.png",
+      "title": "Web Design",
+      "description": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet."
+    },
+    {
+      "id": 2,
+      "image": "img2.png",
+      "title": "Print Design",
+      "description": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet."
+    },
+    {
+      "id": 3,
+      "image": "img3.png",
+      "title": "Web development",
+      "description": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet."
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "text": "Hello World,i am graphic & web designer from Maroco"
+    },
+    {
+      "id": 2,
+      "text": "Content here,lorem graphic & designer contrary"
+    },
+    {
+      "id": 3,
+      "text": "Lorem ipsum,contrary to & designer reproduced below"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "title": "Contact",
+      "text": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio."
+    }
+  ]
+}
